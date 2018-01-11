@@ -1,0 +1,3 @@
+uname: elgordo
+email:gordon56692@gmail.com
+pass: trialpassword
