@@ -1,1 +1,2 @@
 # Polls
+Django Beginner Tutorial
